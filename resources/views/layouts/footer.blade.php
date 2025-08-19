@@ -1,4 +1,4 @@
-<style>
+{{-- <style>
     .footer {
         position: fixed;
         bottom: 0;
@@ -12,4 +12,4 @@
 </style>
 <div class="footer">
     <span>@Copyright anass</span>
-</div>
+</div> --}}
